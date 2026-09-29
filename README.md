@@ -21,6 +21,8 @@ database food by food. Nutrail puts the AI where the friction is:
   the meals still being analyzed.
 - **The AI is correctable.** Every item can be edited; changing a quantity is instant, and a new
   food described in words is analyzed on the spot.
+- **In Portuguese or English.** The whole app, the foods the AI names, the recipes and the e-mails
+  follow the language chosen in the profile.
 - **What to eat next.** Tell it what you have at home and it suggests a recipe that fits what is
   left of the day. Recipes and meals you eat often can be saved and logged again in one tap.
 
